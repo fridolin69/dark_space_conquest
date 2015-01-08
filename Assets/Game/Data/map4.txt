@@ -1,0 +1,27 @@
+#StartPlanet:       0x 0,     6  ;  100 +10  ;  150
+#StartPlanet:     100x 100,   6  ;  100 +10  ;  150
+
+#Planet:          50x 50,    25  ; 1000 +200 ;  300
+#Planet:          61x 39,    4   ; 1000   +0 ;  1
+
+#Planet:           0x 50,   10  ;   20 +10  ;  120
+#Planet:         100x 50,   10  ;   20 +10  ;  120
+
+#Planet:          40x 80,   12  ;  80 +25  ;  200
+#Planet:          60x 20,   12  ;  80 +25  ;  200
+
+#Planet:          18x 75,   6  ;   50 +15  ;  50
+#Planet:          82x 25,   6  ;   50 +15  ;  50
+
+#Planet:          8x 20,   8  ;   30 +20  ;  100
+#Planet:         92x 80,   8  ;   30 +20  ;  100
+
+#Planet:         100x 0,   18  ;   10 +0   ; 500
+#Planet:          0x100,   18  ;   10 +100 ;  50
+
+#Planet:         33x 105,   5 ;   10 +10  ;  20
+#Planet:         67x  -5,   5 ;   10 +10  ;  20
+
+#end
+
+Das ist ein einzigartig tolles mapFile
